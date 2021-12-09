@@ -1,5 +1,5 @@
 ## Hi, I’m @yoonsquared <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-- 💻 I’m interested in ... Bioinformatics Analyses; have expertise in RNA-seq and ATAC-seq analysis.
+- 💻 I’m interested in ... Bioinformatics Analyses; have expertise in RNA-seq and ATAC-seq analysis. And I prefer camelCase
 - 👨‍🔬 Studied Single Cell RNA-seq and single scell ATAC-seq while working at Harvard Bioinformatics Core. [![Twitter Badge](https://img.shields.io/badge/-@bioinfocore-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bioinfocore)](https://twitter.com/bioinfocore).
 - ⚡ I’m currently ... Setting up Research Lab, Developing bioinformatic tools at [![SBL Badge](https://img.shields.io/badge/-samsungBiologics-0e76a8?style=flat&labelColor=white&logo=samsung&logoColor=0e76a8&link=https://samsungbiologics.com/kr)](https://samsungbiologics.com/kr).
 - 📬 How to reach me ... **joonyoon.jay@gmail.com** // joon17.yoon@samsung.com // jyoon@hsph.harvard.edu
