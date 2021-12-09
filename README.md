@@ -10,7 +10,7 @@
 
 
 #### Profiles and Links
-[![Gscholar Badge](https://img.shields.io/badge/-joonJayYoon-e74c3c?style=flat&labelColor=e74c3c&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dYAlZMIAAAAJ&view_op=list_works)[![Linkedin Badge](https://img.shields.io/badge/-joonJayYoon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joon-jay-yoon-32a1a52b/) [![Mail Badge](https://img.shields.io/badge/-joonJayYoon-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joonyoon.jay@gmail.com)
+[![Gscholar Badge](https://img.shields.io/badge/-joonJayYoon-e74c3c?style=flat&labelColor=e74c3c&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dYAlZMIAAAAJ&view_op=list_works)  [![Linkedin Badge](https://img.shields.io/badge/-joonJayYoon-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joon-jay-yoon-32a1a52b/)  [![Mail Badge](https://img.shields.io/badge/-joonJayYoon-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joonyoon.jay@gmail.com)
 
 
 <!---
