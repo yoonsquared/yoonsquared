@@ -3,7 +3,7 @@
 - 💻 I’m interested in ... Bioinformatics Analyses; have expertise in RNA-seq and ATAC-seq analysis.
 - 👨‍🔬 Studied Single Cell RNA-seq and single scell ATAC-seq while working at Harvard Bioinformatics Core. [![Twitter Badge](https://img.shields.io/badge/-@bioinfocore-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bioinfocore)](https://twitter.com/bioinfocore).
 - ⚡ I’m currently ... Setting up Research Lab, Developing bioinformatic tools at [![SBL Badge](https://img.shields.io/badge/-samsungBiologics-0e76a8?style=flat&labelColor=white&logo=samsung&logoColor=0e76a8&link=https://www.linkedin.com/company/samsung-biologics)](https://www.linkedin.com/company/samsung-biologics).
-- 📬 How to reach me ... **joonyoon.jay@gmail.com** // joon17.yoon@samsung.com // jyoon@hsph.harvard.edu
+- 📬 How to reach me ... **joonyoon.jay@gmail.com** // joon17.yoon@samsung.com // ~~jyoon@hsph.harvard.edu ~~
 
 #### More info
 - ⌨️ camelCase >> under_score & PascalCode
